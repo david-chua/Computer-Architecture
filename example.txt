@@ -1,0 +1,4 @@
+#I am a comment!
+
+11011101 # oh gosh another comment
+10110110
